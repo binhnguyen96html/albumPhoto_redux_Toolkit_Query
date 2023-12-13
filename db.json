@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "7cab5fa5-fc03-41af-9fdd-9e5b1e13b274",
+      "name": "Binh",
+      "phone": "123"
+    },
+    {
+      "id": "6e2d4d57-2625-4ebc-87fe-e781ea5bd671",
+      "name": "binh 2",
+      "phone": "1234"
+    },
+    {
+      "id": "eec047c1-7f9f-46fd-98d4-70c93dd68e20",
+      "name": "Binh",
+      "phone": "123"
+    },
+    {
+      "id": "5ec55290-0a97-4d13-9023-67abaf5fc8d7",
+      "name": "binh 4",
+      "phone": "123"
+    }
+  ],
+  "albums": [
+    {
+      "userId": "6e2d4d57-2625-4ebc-87fe-e781ea5bd671",
+      "title": "Unbranded Plastic Shirt",
+      "id": "cOSlqcR"
+    },
+    {
+      "userId": "7cab5fa5-fc03-41af-9fdd-9e5b1e13b274",
+      "title": "Unbranded Steel Gloves",
+      "id": "Y7a_tAL"
+    },
+    {
+      "userId": "7cab5fa5-fc03-41af-9fdd-9e5b1e13b274",
+      "title": "Electronic Fresh Towels",
+      "id": "Q9YPldw"
+    },
+    {
+      "userId": "6e2d4d57-2625-4ebc-87fe-e781ea5bd671",
+      "title": "Sleek Frozen Ball",
+      "id": "2Pof9V4"
+    },
+    {
+      "userId": "eec047c1-7f9f-46fd-98d4-70c93dd68e20",
+      "title": "Handcrafted Granite Chair",
+      "id": "ikLNRys"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": "Q9YPldw",
+      "url": "abc",
+      "id": "123"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=1871158915891200",
+      "albumId": "Y7a_tAL",
+      "id": "L31g-cq"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=1653594317127680",
+      "albumId": "Y7a_tAL",
+      "id": "d60S0Zw"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=3948998958252032",
+      "albumId": "Y7a_tAL",
+      "id": "gx2V2t5"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=3974579403882496",
+      "albumId": "Y7a_tAL",
+      "id": "-4dUinm"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=4588421087494144",
+      "albumId": "Y7a_tAL",
+      "id": "D9KlwpF"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=1957396605829120",
+      "albumId": "Y7a_tAL",
+      "id": "ntqihqK"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=7947598728003584",
+      "albumId": "Y7a_tAL",
+      "id": "gFR1w-0"
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=4762778181042176",
+      "albumId": "Y7a_tAL",
+      "id": "J3BK14I"
+    }
+  ]
+}
